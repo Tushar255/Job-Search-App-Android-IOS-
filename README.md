@@ -1,3 +1,7 @@
+# Please Note:-
+
+You've to use your rapid-api-key in the Custom Hook Component
+
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
